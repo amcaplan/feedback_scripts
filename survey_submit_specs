@@ -1,0 +1,2 @@
+mkdir -p ../feedback/spec/requests/feedback
+cp ../feedback_scripts/templates/survey_submission_specs.rb ../feedback/spec/requests/feedback/feedback_surveys_spec.rb
